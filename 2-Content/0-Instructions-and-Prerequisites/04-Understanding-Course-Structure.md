@@ -44,10 +44,6 @@ BCA2-Web-Technology/
 │   ├── Days-42-43-Department-Website-Project.md
 │   └── Days-44-45-E-Book-Project.md
 │
-├── .github/                                ← GitHub configuration
-│   ├── copilot-instructions.md
-│   └── instructions/
-│
 ├── README.md                               ← Course overview (start here!)
 ├── Lecture-Plan.md                         ← Full schedule of all 55 days
 └── LICENSE                                 ← MIT License

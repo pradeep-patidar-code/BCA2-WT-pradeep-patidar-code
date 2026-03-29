@@ -104,7 +104,7 @@ Write these down somewhere safe (not on a sticky note on your monitor!):
 
 You now have a GitHub account. Proceed to the next guide:
 
-**👉 [Step 2: Installing Required Software](FOR-STUDENTS-02-Installing-Required-Software.md)**
+**👉 [Step 2: Installing Required Software](02-Installing-Required-Software.md)**
 
 ---
 

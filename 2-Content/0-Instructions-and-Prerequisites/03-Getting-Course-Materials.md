@@ -180,7 +180,7 @@ You would need to download and extract the ZIP again (not recommended — use Gi
 
 You now have all the course materials on your computer. Let's understand how they are organized:
 
-**👉 [Step 4: Understanding the Course Structure](FOR-STUDENTS-04-Understanding-Course-Structure.md)**
+**👉 [Step 4: Understanding the Course Structure](04-Understanding-Course-Structure.md)**
 
 ---
 

@@ -143,7 +143,7 @@ If you see the version number, Git is installed correctly.
 
 All software is installed. Now let's download the course materials:
 
-**👉 [Step 3: Getting the Course Materials](FOR-STUDENTS-03-Getting-Course-Materials.md)**
+**👉 [Step 3: Getting the Course Materials](03-Getting-Course-Materials.md)**
 
 ---
 
